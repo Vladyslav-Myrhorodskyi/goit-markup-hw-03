@@ -124,10 +124,11 @@ padding: 24px 0;
     letter-spacing: 0.04em;
     color: #fff;
     background: #4d5ae5;
+    border: none;
     border-radius: 4px;
     width: 169px;
     height: 56px;
-    min-width: 169px;
+    max-width: 169px;
     margin: 0 auto;
     display: block;
     
@@ -206,7 +207,7 @@ padding: 24px 0;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;  
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .team-item {
@@ -228,7 +229,7 @@ padding: 24px 0;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .team-text {
@@ -273,7 +274,7 @@ padding: 24px 0;
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .portfolio-title {
@@ -283,7 +284,7 @@ padding: 24px 0;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .portfolio-text {
