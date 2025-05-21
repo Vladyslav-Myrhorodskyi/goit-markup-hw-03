@@ -105,12 +105,6 @@ padding: 24px 0;
 }
 
         /* HERO */
-
-.container-hero {
-    background-color: #2e2f42;
-}
-
-
 .hero-title {
     font-size: 56px;
     line-height: 1.07;
@@ -141,6 +135,7 @@ padding: 24px 0;
 .section-hero {
     padding-bottom: 188px;
     padding-top: 188px;
+    background-color: #2e2f42;
 }
 
 .hero-button:hover,
@@ -182,7 +177,7 @@ padding: 24px 0;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .about-text {
@@ -321,13 +316,14 @@ padding: 24px 0;
     text-transform: uppercase;
     color: #4d5ae5;
     display: inline-block;
+    margin-bottom: 16px;
         
 }
 
 .footer-logo-part {
     color: #f4f4fd;
     display: inline-block;
-}
+    }
 
 .footer-text {
     font-size: 16px;
